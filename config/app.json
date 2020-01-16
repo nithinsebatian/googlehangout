@@ -1,0 +1,5 @@
+{
+  "ORACLE_WEBHOOK_SECRET": "ZJKnq1Ph4zuImmCDkfIwpk7t7lzdGhOp",
+  "ORACLE_WEBHOOK_URL": "https://botv2frk1I0168H3940B5bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-6d466372210e4300bb31f4db15e8e96c/listeners/webhook/channels/fe996319-4acc-475e-b879-6fb76579c188",
+  "GOOGLE_APPLICATION_CREDENTIALS": "./google_service_account.json"
+}
