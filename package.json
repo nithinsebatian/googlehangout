@@ -14,7 +14,7 @@
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
     "googleapis": "^31.0.2",
-    "morgan": "^1.9.0",
+    "morgan": "^1.9.1",
     "nconf": "^0.10.0"
   }
 }
